@@ -4,6 +4,6 @@ Modular multi agent strategy engine designed for autonmous market research , pro
 ''' bash
 git clone [ https: //github .com/ lhakpa-code/ AI venture studio .git]( https: //github.com/lhakpa-code/AI -VENTURE STUDIO .GIT) cd AI-VENTURE STUDIO.
 unzip strategyos-project -2026-09-03.zip 
-pip install-r requirement,txt
+pip install-r requirement.txt
 python main.py
 
